@@ -28,7 +28,7 @@ https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/
 
 >After creating a connection, you find the green bar saying "Local host"
 
->Click 3dots tab and copy connection string
+>Click options tab and copy connection string
 
 >After installing MongoDB extension in VSCode
 
