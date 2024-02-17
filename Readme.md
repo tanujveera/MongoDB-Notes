@@ -78,7 +78,7 @@ use school
 db.students.insertOne({name:"Jack",age:2, gpa:3.23})
 ```
 
-In this command "newCollect" is the collection and "dbname" is the database
+In this command "students" is the collection and "school" is the database
 insertOne() command creates both database and collection if they don't exist
 
 ## When we insert a document, 
